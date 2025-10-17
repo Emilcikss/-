@@ -29,12 +29,12 @@ Scanner scan = new Scanner(System.in);
 		float delit = num1 / num2;
 		float ostatok = num1 % num2;
 		
-		System.out.println("Выбранные вами числа " + num1 + " и " + num2 + " были успешно:"
+		System.out.println("Выбранные вами числа " + num1 + " и " + num2 + " были успешно: \n"
 				+ " \n сложенны," 
 				+ " \n вычты," 
 				+ " \n умноженны,"
 				+ " \n поделенны,"
-				+ " \n остаток.\n"
+				+ " \n и выведен остаток.\n"
 				+ " \n \t Результаты: \n++++++++++++++++++++++++++++++++++\n" 
 				+ num1 + " + " + num2 + " = " + plus + "\n"
 				+ num1 + " - " + num2 + " = " + minus + "\n"

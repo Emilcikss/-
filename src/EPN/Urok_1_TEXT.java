@@ -1,6 +1,6 @@
 package EPN;
 
-public class Urok_1 {
+public class Urok_1_TEXT {
 
 public static void main(String[] args) {
 	
